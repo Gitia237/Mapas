@@ -1,0 +1,5772 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1507,
+        "CODIGO_ZV": "3551_03135_BADEN-POWEL, ROBERT",
+        "ID_VALVULA": "03135_V002",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "03135_A001",
+        "MATERIAL": "LATON",
+        "TIPO_TAMAN": "ESFERA_32",
+        "OBSERVACIO": "AN. ROBERT BADEN POWEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.910061976222805,
+          41.63881846329965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2640,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V002",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A008",
+        "MATERIAL": "LATON",
+        "TIPO_TAMAN": "ESFERA_50",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.911929268005056,
+          41.639729460996726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2641,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V003",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A014",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_50",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.912089508050298,
+          41.63993214136259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2642,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V004",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A005",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_50",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.911581174382586,
+          41.63995966538849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2646,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V009",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A001",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.911090991040032,
+          41.63954941004431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2647,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V010",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A009",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.911167695495141,
+          41.63947362537986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2648,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V011",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A002",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_40",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.910607146802781,
+          41.63932685907142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2649,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V012",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A011",
+        "MATERIAL": "LATON",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.910532996123347,
+          41.63934651831478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2650,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V005",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A010",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_50",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91153038969216,
+          41.640035308589496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2651,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V006",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A013",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_50",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.911065498796541,
+          41.64014569313704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2652,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V007",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A012",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_50",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.910841137588325,
+          41.63988549900767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2653,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V008",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A007",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_50",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.910910655245085,
+          41.63984721749606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2658,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V013",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A004",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_50",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.910950975098393,
+          41.63873257069043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2659,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V014",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A006",
+        "MATERIAL": "LATON",
+        "TIPO_TAMAN": "ESFERA_50",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.911076035201113,
+          41.63890371049206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2660,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_VALVULA": "00403_V001",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "00403_A003",
+        "MATERIAL": "LATON",
+        "TIPO_TAMAN": "ESFERA_40",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.910500195199336,
+          41.63898904536544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2830,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V017",
+        "LOTE": 1.1,
+        "ID_ARQUETA": null,
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_75",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.907822648693122,
+          41.640664830830936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4312,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V016",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A007",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.906654126707417,
+          41.64048157499448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4313,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V015",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A006",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.906632187216352,
+          41.6405454416999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4314,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V014",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A011",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.907147760461953,
+          41.64051491441523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4319,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V009",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A012",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.907390779593593,
+          41.64094458850471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4320,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V008",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A005",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.907889042281238,
+          41.64110182578662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4321,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V007",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A009",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.907635535827197,
+          41.641052396527776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4322,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V006",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A008",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.906972223817722,
+          41.64122977481082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4323,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V013",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A002",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.906317279833545,
+          41.64046635477761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4324,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V012",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A010",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.907232065590594,
+          41.640345427184045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4325,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V011",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A014",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.907151833304778,
+          41.64036340711034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4326,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V010",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A004",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.907563148917528,
+          41.641079891522814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4330,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V005",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A003",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.907055567815959,
+          41.641248644801394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4331,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V004",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A013",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.906803238692646,
+          41.64092235922953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4332,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V003",
+        "LOTE": 1.1,
+        "ID_ARQUETA": "31330_A001",
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_63",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.906872773269799,
+          41.64141977639596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4338,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V002",
+        "LOTE": 1.1,
+        "ID_ARQUETA": null,
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_75",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.907805961357315,
+          41.640669564030404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4340,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_VALVULA": "31330_V001",
+        "LOTE": 1.1,
+        "ID_ARQUETA": null,
+        "MATERIAL": "HIERRO",
+        "TIPO_TAMAN": "ESFERA_75",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.90779259499699,
+          41.6406732985836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 185,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0001",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "00403_A005",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911584551244974,
+              41.639943982839874
+            ],
+            [
+              -0.911589313431413,
+              41.63995236041229
+            ],
+            [
+              -0.911584137192376,
+              41.63995399658386
+            ],
+            [
+              -0.911579059160901,
+              41.639955586613105
+            ],
+            [
+              -0.911578607663765,
+              41.63995571478022
+            ],
+            [
+              -0.911572542452469,
+              41.63995743651995
+            ],
+            [
+              -0.911567816835295,
+              41.639958767241495
+            ]
+          ],
+          [
+            [
+              -0.911581174363992,
+              41.63995966643322
+            ],
+            [
+              -0.911578607663765,
+              41.63995571478022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 186,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0002",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "00403_A002",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910612646421374,
+              41.639325491877024
+            ],
+            [
+              -0.910612458776182,
+              41.639325166438525
+            ],
+            [
+              -0.910609650328321,
+              41.63932029566557
+            ],
+            [
+              -0.910607879321643,
+              41.63931722415668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 187,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0003",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "00403_A013",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911066699638313,
+              41.64014833401555
+            ],
+            [
+              -0.911066638408634,
+              41.640148348854126
+            ],
+            [
+              -0.911059806407711,
+              41.640150004541375
+            ],
+            [
+              -0.911055276616337,
+              41.64015110230409
+            ]
+          ],
+          [
+            [
+              -0.911065498777943,
+              41.64014569418177
+            ],
+            [
+              -0.911066638408634,
+              41.640148348854126
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 188,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0004",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE40 mm",
+        "ID_ARQUETA": "00403_A002",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910617642642129,
+              41.63933369132436
+            ],
+            [
+              -0.910616168968529,
+              41.63933131218432
+            ],
+            [
+              -0.910612646421374,
+              41.639325491877024
+            ]
+          ],
+          [
+            [
+              -0.910612458776182,
+              41.639325166438525
+            ],
+            [
+              -0.910607146784179,
+              41.639326860116164
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 189,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0005",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "00403_A009",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911161019000983,
+              41.639475474937974
+            ],
+            [
+              -0.911172590005164,
+              41.639472271277896
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 190,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0006",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": "00403_A013",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911075606107742,
+              41.6401398467965
+            ],
+            [
+              -0.911064447971385,
+              41.640143000875476
+            ],
+            [
+              -0.911065498777943,
+              41.64014569418177
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 191,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0007",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "00403_A012",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910841137569725,
+              41.6398855000524
+            ],
+            [
+              -0.910834660984042,
+              41.6398874722677
+            ],
+            [
+              -0.910823463630953,
+              41.639890715210306
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 192,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0008",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": "00403_A012",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910841137569725,
+              41.6398855000524
+            ],
+            [
+              -0.910845681083834,
+              41.63988388924907
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 193,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0009",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": "00403_A014",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.912084316589625,
+              41.63993035346887
+            ],
+            [
+              -0.912089508031709,
+              41.639932142407325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 194,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0010",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE40 mm",
+        "ID_ARQUETA": "00403_A013",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911081738539774,
+              41.64015379026697
+            ],
+            [
+              -0.911080891299507,
+              41.64015397944757
+            ],
+            [
+              -0.911058740800682,
+              41.64015897589565
+            ]
+          ],
+          [
+            [
+              -0.911080891299507,
+              41.64015397944757
+            ],
+            [
+              -0.911076697101248,
+              41.64014609630459
+            ],
+            [
+              -0.911070165576261,
+              41.640147558242106
+            ],
+            [
+              -0.911066699638313,
+              41.64014833401555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 195,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0011",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": "00403_A006",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.91107297713449,
+              41.638899739730554
+            ],
+            [
+              -0.911076035182515,
+              41.638903711536784
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 196,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0012",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": "00403_A007",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910910655226486,
+              41.639847218540794
+            ],
+            [
+              -0.910905084369396,
+              41.639849176841935
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 197,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0013",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "00403_A011",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910533361832532,
+              41.63934644469513
+            ],
+            [
+              -0.910526227409429,
+              41.63934790120815
+            ],
+            [
+              -0.910526227409429,
+              41.63934790120815
+            ],
+            [
+              -0.910514720219088,
+              41.63935064506881
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 198,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0014",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": "00403_A008",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911934142974643,
+              41.63973002781194
+            ],
+            [
+              -0.911929267986465,
+              41.639729462041466
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 199,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0015",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "00403_A007",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910921590940378,
+              41.63984372448698
+            ],
+            [
+              -0.910916103961265,
+              41.63984556436255
+            ],
+            [
+              -0.910910655226486,
+              41.639847218540794
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 200,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0016",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "00403_A008",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911929267986465,
+              41.639729462041466
+            ],
+            [
+              -0.911922178641199,
+              41.63972872868743
+            ],
+            [
+              -0.91191021977974,
+              41.63972726013876
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 201,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0017",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": "00403_A010",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911527823145739,
+              41.640031111398486
+            ],
+            [
+              -0.911530389673566,
+              41.64003530963423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 202,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0018",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": "00403_A011",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910537779485354,
+              41.63934532068434
+            ],
+            [
+              -0.910533361832532,
+              41.63934644469513
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 203,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0019",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "00403_A009",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911172590005164,
+              41.639472271277896
+            ],
+            [
+              -0.911176873879381,
+              41.63948095010093
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 204,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0020",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "00403_A010",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911537581209661,
+              41.640047614187644
+            ],
+            [
+              -0.91153577335066,
+              41.640044346741675
+            ],
+            [
+              -0.911532860258971,
+              41.640039319991146
+            ],
+            [
+              -0.911526421295434,
+              41.640041280052706
+            ],
+            [
+              -0.911521729927167,
+              41.64004270849789
+            ]
+          ],
+          [
+            [
+              -0.911532860258971,
+              41.640039319991146
+            ],
+            [
+              -0.911530389673566,
+              41.64003530963423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 205,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0021",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE40 mm",
+        "ID_ARQUETA": "00403_A007",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910917286062123,
+              41.63983544731411
+            ],
+            [
+              -0.910921590940378,
+              41.63984372448698
+            ],
+            [
+              -0.910926480212096,
+              41.639852081946685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 206,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0022",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE40 mm",
+        "ID_ARQUETA": "00403_A006",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911079670503678,
+              41.6389074016485
+            ],
+            [
+              -0.911088168299498,
+              41.63890926652839
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 207,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0023",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": "00403_A005",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911583520059978,
+              41.639963965278255
+            ],
+            [
+              -0.911581174363992,
+              41.63995966643322
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 208,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0024",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE40 mm",
+        "ID_ARQUETA": "00403_A006",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911088168299498,
+              41.63890926652839
+            ],
+            [
+              -0.911094479936627,
+              41.638910652561734
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 209,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0025",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "00403_A001",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911097938112616,
+              41.63955220804141
+            ],
+            [
+              -0.911088214860075,
+              41.63955786315903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 210,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0026",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911093375278622,
+              41.639497032121696
+            ],
+            [
+              -0.911107829133268,
+              41.6395161308581
+            ],
+            [
+              -0.911121982971845,
+              41.63952850636154
+            ],
+            [
+              -0.9110947195158,
+              41.63954689614174
+            ]
+          ],
+          [
+            [
+              -0.910724685347514,
+              41.63961620783309
+            ],
+            [
+              -0.911093375278622,
+              41.639497032121696
+            ],
+            [
+              -0.911154372567673,
+              41.63947731513304
+            ],
+            [
+              -0.911161019000983,
+              41.639475474937974
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 211,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0027",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": "00403_A004",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910954417353731,
+              41.6387382824929
+            ],
+            [
+              -0.910950975079795,
+              41.638732571735154
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 212,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0028",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": "00403_A003",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910508001799954,
+              41.63898989126179
+            ],
+            [
+              -0.910500195180733,
+              41.638989046410174
+            ],
+            [
+              -0.910499653488141,
+              41.638988987786846
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 213,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0029",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "00403_A001",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.9110947195158,
+              41.63954689614174
+            ],
+            [
+              -0.911085360262016,
+              41.63955320915323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 214,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0030",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": "00403_A002",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910601462713942,
+              41.63932882391531
+            ],
+            [
+              -0.910607146784179,
+              41.639326860116164
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 215,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0031",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE40 mm",
+        "ID_ARQUETA": "00403_A003",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910499653488141,
+              41.638988987786846
+            ],
+            [
+              -0.910495002915251,
+              41.63898863426118
+            ],
+            [
+              -0.910483912489835,
+              41.638992261129275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 216,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0032",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "00403_A001",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911085360262016,
+              41.63955320915323
+            ],
+            [
+              -0.911096886765054,
+              41.639550472921194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 217,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0033",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.912084316589625,
+              41.63993035346887
+            ],
+            [
+              -0.912069771235177,
+              41.639925841285184
+            ],
+            [
+              -0.911932804248414,
+              41.63988335198382
+            ],
+            [
+              -0.911788649036639,
+              41.63992696702805
+            ],
+            [
+              -0.911594732094463,
+              41.63998503123144
+            ],
+            [
+              -0.911514777891688,
+              41.64000985254963
+            ],
+            [
+              -0.911527823145739,
+              41.640031111398486
+            ]
+          ],
+          [
+            [
+              -0.911932804248414,
+              41.63988335198382
+            ],
+            [
+              -0.91195646269174,
+              41.63973286653904
+            ],
+            [
+              -0.91195652686774,
+              41.63973245833047
+            ],
+            [
+              -0.911934142974643,
+              41.63973002781194
+            ]
+          ],
+          [
+            [
+              -0.911594732094463,
+              41.63998503123144
+            ],
+            [
+              -0.911583517940975,
+              41.63996396129691
+            ]
+          ],
+          [
+            [
+              -0.911514777891688,
+              41.64000985254963
+            ],
+            [
+              -0.9111757645177,
+              41.64010877969688
+            ],
+            [
+              -0.911075606107742,
+              41.6401398467965
+            ]
+          ],
+          [
+            [
+              -0.911011512282437,
+              41.63882938064619
+            ],
+            [
+              -0.91107297713449,
+              41.638899739730554
+            ]
+          ],
+          [
+            [
+              -0.911011512282437,
+              41.63882938064619
+            ],
+            [
+              -0.911011448902687,
+              41.63882940013025
+            ],
+            [
+              -0.910571358060456,
+              41.638964690694486
+            ],
+            [
+              -0.910568393641738,
+              41.63899573117228
+            ],
+            [
+              -0.910540148710274,
+              41.63929530272153
+            ],
+            [
+              -0.91055712846702,
+              41.63932463235222
+            ],
+            [
+              -0.910565326391661,
+              41.63933879285416
+            ],
+            [
+              -0.910724595660987,
+              41.63961623680645
+            ]
+          ],
+          [
+            [
+              -0.911011512282437,
+              41.63882938064619
+            ],
+            [
+              -0.910954417353731,
+              41.6387382824929
+            ]
+          ],
+          [
+            [
+              -0.910905084369396,
+              41.639849176841935
+            ],
+            [
+              -0.910896789685568,
+              41.6398518960319
+            ],
+            [
+              -0.910866544503383,
+              41.63986172980654
+            ],
+            [
+              -0.91087402356957,
+              41.63987467411213
+            ]
+          ],
+          [
+            [
+              -0.910845681083834,
+              41.63988388924907
+            ],
+            [
+              -0.91087402356957,
+              41.63987467411213
+            ],
+            [
+              -0.91091737145016,
+              41.63994969780311
+            ],
+            [
+              -0.911154527183029,
+              41.6400697975719
+            ],
+            [
+              -0.9111757645177,
+              41.64010877969688
+            ]
+          ],
+          [
+            [
+              -0.910724685347514,
+              41.63961620783309
+            ],
+            [
+              -0.910866544503383,
+              41.63986172980654
+            ]
+          ],
+          [
+            [
+              -0.910601462713942,
+              41.63932882391531
+            ],
+            [
+              -0.910565326391661,
+              41.63933879285416
+            ],
+            [
+              -0.910537779485354,
+              41.63934532068434
+            ]
+          ],
+          [
+            [
+              -0.910571358060456,
+              41.638964690694486
+            ],
+            [
+              -0.910094387938308,
+              41.63885115962237
+            ],
+            [
+              -0.908956119384549,
+              41.63919717549391
+            ],
+            [
+              -0.908739470269552,
+              41.63881120433499
+            ],
+            [
+              -0.908209436506567,
+              41.63907045157825
+            ],
+            [
+              -0.908441336190959,
+              41.63946174638327
+            ],
+            [
+              -0.907333071168349,
+              41.63978794414186
+            ],
+            [
+              -0.907805543400809,
+              41.64055316603007
+            ],
+            [
+              -0.907767008327017,
+              41.640566973570415
+            ],
+            [
+              -0.907811488651054,
+              41.64064520404016
+            ]
+          ],
+          [
+            [
+              -0.910568393641738,
+              41.63899573117228
+            ],
+            [
+              -0.910508001799954,
+              41.63898989126179
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 218,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0034",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "00403_A004",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910960466658951,
+              41.638726790610654
+            ],
+            [
+              -0.910955734409611,
+              41.638728140199824
+            ],
+            [
+              -0.910949274409812,
+              41.638730076624554
+            ],
+            [
+              -0.910950975079795,
+              41.638732571735154
+            ]
+          ],
+          [
+            [
+              -0.910949274409812,
+              41.638730076624554
+            ],
+            [
+              -0.910944702668835,
+              41.638731409119835
+            ],
+            [
+              -0.910941312707071,
+              41.63873235369182
+            ],
+            [
+              -0.910936419680477,
+              41.638723793649724
+            ]
+          ],
+          [
+            [
+              -0.910938045304845,
+              41.63873327946032
+            ],
+            [
+              -0.910941312707071,
+              41.63873235369182
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 219,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0035",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "00403_A006",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.911073458053241,
+              41.63891909849891
+            ],
+            [
+              -0.911072740726576,
+              41.63891788939979
+            ],
+            [
+              -0.911075643288028,
+              41.63891349656885
+            ],
+            [
+              -0.911079670503678,
+              41.6389074016485
+            ],
+            [
+              -0.911088656427331,
+              41.63890643850322
+            ],
+            [
+              -0.91109194299247,
+              41.63890608622379
+            ]
+          ],
+          [
+            [
+              -0.911076035182515,
+              41.638903711536784
+            ],
+            [
+              -0.911079670503678,
+              41.6389074016485
+            ],
+            [
+              -0.911079363374424,
+              41.6389075960103
+            ],
+            [
+              -0.911072860344235,
+              41.63891171134753
+            ],
+            [
+              -0.911070049731757,
+              41.6389134899978
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 220,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_TUBERIA": "00403_T0036",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "00403_A014",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.912102053521199,
+              41.63992626482796
+            ],
+            [
+              -0.912099703499527,
+              41.639929019463686
+            ],
+            [
+              -0.912095583629999,
+              41.63993384866945
+            ],
+            [
+              -0.912101212538824,
+              41.63993550505123
+            ],
+            [
+              -0.912104618103466,
+              41.639939964067125
+            ]
+          ],
+          [
+            [
+              -0.912089508031709,
+              41.639932142407325
+            ],
+            [
+              -0.912095583629999,
+              41.63993384866945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1205,
+        "CODIGO_ZV": "3551_03135_BADEN-POWEL, ROBERT",
+        "ID_TUBERIA": "03135_T0001",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "03135_A001",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.910061976204198,
+              41.638818464344375
+            ],
+            [
+              -0.910077718559045,
+              41.63881428808085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11948,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0001",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907462105469634,
+              41.640660095816706
+            ],
+            [
+              -0.907467951382236,
+              41.64066997217561
+            ],
+            [
+              -0.907479327215171,
+              41.6406994890229
+            ],
+            [
+              -0.907491188135137,
+              41.640735185168786
+            ],
+            [
+              -0.907493463823063,
+              41.64077070674252
+            ],
+            [
+              -0.907493452688562,
+              41.640813385544355
+            ],
+            [
+              -0.90748378976707,
+              41.64085794538999
+            ],
+            [
+              -0.907468832490926,
+              41.64089675255861
+            ],
+            [
+              -0.907458945340928,
+              41.640913916394574
+            ],
+            [
+              -0.907453589722782,
+              41.6409232136038
+            ],
+            [
+              -0.907424237882256,
+              41.64096227282141
+            ],
+            [
+              -0.907585862936844,
+              41.64105830240626
+            ],
+            [
+              -0.907612555421019,
+              41.64107416170236
+            ]
+          ],
+          [
+            [
+              -0.907424237882256,
+              41.64096227282141
+            ],
+            [
+              -0.907389757994697,
+              41.64099044033364
+            ],
+            [
+              -0.907330380721614,
+              41.641025867447254
+            ],
+            [
+              -0.90727556047768,
+              41.641047494007225
+            ],
+            [
+              -0.907224429660824,
+              41.64106096045596
+            ],
+            [
+              -0.907160356773359,
+              41.641072134339446
+            ],
+            [
+              -0.907086196901415,
+              41.64107746819561
+            ],
+            [
+              -0.907045457669812,
+              41.64107483719808
+            ],
+            [
+              -0.907009929886811,
+              41.641233796638566
+            ],
+            [
+              -0.907008895053384,
+              41.64123842669831
+            ],
+            [
+              -0.907008490643872,
+              41.64124023610685
+            ],
+            [
+              -0.907008047599121,
+              41.641242218377016
+            ],
+            [
+              -0.907011477908267,
+              41.641248656009985
+            ],
+            [
+              -0.907015620716347,
+              41.64125643080332
+            ]
+          ],
+          [
+            [
+              -0.907192614936494,
+              41.64034119485078
+            ],
+            [
+              -0.90718762817069,
+              41.640366262160654
+            ],
+            [
+              -0.907163804385383,
+              41.64048601846724
+            ],
+            [
+              -0.907203982060773,
+              41.64049292477426
+            ],
+            [
+              -0.907241875929459,
+              41.640502420995496
+            ],
+            [
+              -0.907271017015896,
+              41.64051058140827
+            ],
+            [
+              -0.90732233574285,
+              41.640533626898026
+            ],
+            [
+              -0.907369363586814,
+              41.64056225047318
+            ],
+            [
+              -0.907412000770642,
+              41.64059953554112
+            ],
+            [
+              -0.907444351497833,
+              41.64063714746604
+            ],
+            [
+              -0.907462105469634,
+              41.640660095816706
+            ],
+            [
+              -0.907716845070153,
+              41.640581806644235
+            ],
+            [
+              -0.907747457454056,
+              41.640571893488016
+            ],
+            [
+              -0.907794641148368,
+              41.64065066616737
+            ],
+            [
+              -0.907794767243048,
+              41.64065087668083
+            ]
+          ],
+          [
+            [
+              -0.907045457669812,
+              41.64107483719808
+            ],
+            [
+              -0.906974401404057,
+              41.64106323562831
+            ],
+            [
+              -0.906926867477752,
+              41.641047313014994
+            ],
+            [
+              -0.906861436788169,
+              41.641015782995986
+            ],
+            [
+              -0.906808429917201,
+              41.64098139403518
+            ],
+            [
+              -0.906765575843352,
+              41.64093674066833
+            ],
+            [
+              -0.906745749627971,
+              41.64090723505474
+            ],
+            [
+              -0.906723217375935,
+              41.64086260294662
+            ],
+            [
+              -0.906714228617696,
+              41.640822845421724
+            ],
+            [
+              -0.906710900161314,
+              41.640777534752665
+            ],
+            [
+              -0.906712849327977,
+              41.640738490698325
+            ],
+            [
+              -0.906723014386751,
+              41.640699596323465
+            ],
+            [
+              -0.906735535412917,
+              41.64067257158127
+            ],
+            [
+              -0.906771465384113,
+              41.64062077725718
+            ],
+            [
+              -0.906793104028088,
+              41.640599713018496
+            ],
+            [
+              -0.906839773859454,
+              41.64056340232582
+            ],
+            [
+              -0.906896345784729,
+              41.64052998116828
+            ],
+            [
+              -0.906953937598513,
+              41.640507376864434
+            ],
+            [
+              -0.907001678013155,
+              41.6404928203648
+            ],
+            [
+              -0.907067687875653,
+              41.64048528128633
+            ],
+            [
+              -0.907137589414063,
+              41.6404844977213
+            ],
+            [
+              -0.907153139377747,
+              41.640485597137335
+            ],
+            [
+              -0.907163804385383,
+              41.64048601846724
+            ]
+          ],
+          [
+            [
+              -0.906953797774998,
+              41.64126517541574
+            ],
+            [
+              -0.906954243729013,
+              41.64126504769607
+            ],
+            [
+              -0.907011477908267,
+              41.641248656009985
+            ]
+          ],
+          [
+            [
+              -0.906793104028088,
+              41.640599713018496
+            ],
+            [
+              -0.906735738198509,
+              41.64056667115623
+            ],
+            [
+              -0.906717853009134,
+              41.64055636953669
+            ],
+            [
+              -0.906700101851075,
+              41.64054614511934
+            ],
+            [
+              -0.90669048235497,
+              41.6405406044217
+            ],
+            [
+              -0.906648328723439,
+              41.640581786496405
+            ]
+          ],
+          [
+            [
+              -0.90669048235497,
+              41.6405406044217
+            ],
+            [
+              -0.906656463701775,
+              41.64052101012691
+            ],
+            [
+              -0.906638022022482,
+              41.640510387954244
+            ],
+            [
+              -0.906628092293862,
+              41.640505203093426
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11949,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0002",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907632712618286,
+              41.641055071343985
+            ],
+            [
+              -0.907612555421019,
+              41.64107416170236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11950,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0003",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A010",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907239628967983,
+              41.64034627176256
+            ],
+            [
+              -0.90723206557196,
+              41.640345428228784
+            ],
+            [
+              -0.907227749363264,
+              41.640344946848515
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11951,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0004",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907227749363264,
+              41.640344946848515
+            ],
+            [
+              -0.90719264733989,
+              41.64034103196637
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11952,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0005",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "31330_A011",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907147380751819,
+              41.64051704214802
+            ],
+            [
+              -0.907140204891646,
+              41.64051389594732
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11953,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0006",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A011",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907147760443319,
+              41.64051491545997
+            ],
+            [
+              -0.907147380751819,
+              41.64051704214802
+            ],
+            [
+              -0.907146756619156,
+              41.64052053797379
+            ],
+            [
+              -0.907146162634061,
+              41.640523871054214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11954,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0007",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907149403190929,
+              41.640505961532774
+            ],
+            [
+              -0.907153139377747,
+              41.640485597137335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11955,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0008",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "31330_A012",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907388501159579,
+              41.64094329192485
+            ],
+            [
+              -0.907384474398643,
+              41.640946879813
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11956,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0009",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE40 mm",
+        "ID_ARQUETA": "31330_A012",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907388009622689,
+              41.640930869445846
+            ],
+            [
+              -0.907380104746503,
+              41.64093850991973
+            ],
+            [
+              -0.907373287640001,
+              41.64094509462509
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11957,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0010",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A012",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907390779574961,
+              41.64094458954945
+            ],
+            [
+              -0.907388501159579,
+              41.64094329192485
+            ],
+            [
+              -0.907380104746503,
+              41.64093850991973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11958,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0011",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A012",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907390779574961,
+              41.64094458954945
+            ],
+            [
+              -0.90739758749302,
+              41.64094818764894
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11959,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0012",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A007",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906658632443307,
+              41.6404774901696
+            ],
+            [
+              -0.906674326876379,
+              41.64047665678746
+            ],
+            [
+              -0.906674737769209,
+              41.64047631868051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11960,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0013",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906635687152187,
+              41.64054192028468
+            ],
+            [
+              -0.906656463701775,
+              41.64052101012691
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11961,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0014",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE40 mm",
+        "ID_ARQUETA": "31330_A007",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906658632443307,
+              41.6404774901696
+            ],
+            [
+              -0.906653642822968,
+              41.6404674246187
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11962,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0015",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906628092293862,
+              41.640505203093426
+            ],
+            [
+              -0.906628079150239,
+              41.640505196230414
+            ],
+            [
+              -0.906650971095205,
+              41.64048443756705
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11963,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0016",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906978154631448,
+              41.64123040828983
+            ],
+            [
+              -0.907009929886811,
+              41.641233796638566
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11964,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0017",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE90 mm",
+        "ID_ARQUETA": "31330_A003",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907060904061872,
+              41.64124760590434
+            ],
+            [
+              -0.907057217419912,
+              41.64124832436446
+            ],
+            [
+              -0.907055567797324,
+              41.64124864584614
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11965,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0018",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "31330_A003",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907057217419912,
+              41.64124832436446
+            ],
+            [
+              -0.907052808258606,
+              41.641245294990384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11966,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0019",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "31330_A004",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907560998545894,
+              41.64108193652141
+            ],
+            [
+              -0.907566844446183,
+              41.64108562252361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11967,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0020",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907566359316437,
+              41.641076841000704
+            ],
+            [
+              -0.907585862936844,
+              41.64105830240626
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11968,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0021",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.90788415935142,
+              41.641099199320024
+            ],
+            [
+              -0.907872929645087,
+              41.64109315657474
+            ],
+            [
+              -0.907853633061651,
+              41.64111325154807
+            ],
+            [
+              -0.907749467623199,
+              41.64105656175687
+            ],
+            [
+              -0.907697319075135,
+              41.64106781742746
+            ],
+            [
+              -0.907691958265106,
+              41.64106083054124
+            ],
+            [
+              -0.907651737736025,
+              41.64103709632012
+            ],
+            [
+              -0.907647636514241,
+              41.64104096518047
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11969,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0022",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A005",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.90789394186094,
+              41.6411044633217
+            ],
+            [
+              -0.907897097895393,
+              41.64110167006972
+            ],
+            [
+              -0.907901803521143,
+              41.64109750883733
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11970,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0023",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A006",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906628507825796,
+              41.640549145775175
+            ],
+            [
+              -0.906632187197714,
+              41.64054544274463
+            ],
+            [
+              -0.906635687152187,
+              41.64054192028468
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11971,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0024",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A005",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.90789394186094,
+              41.6411044633217
+            ],
+            [
+              -0.907889042262611,
+              41.64110182683136
+            ],
+            [
+              -0.90788415935142,
+              41.641099199320024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11972,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0025",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A002",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906322931599532,
+              41.64046927130729
+            ],
+            [
+              -0.9063172798149,
+              41.64046635582235
+            ],
+            [
+              -0.906314926271709,
+              41.64046514174201
+            ],
+            [
+              -0.906313027855192,
+              41.64046416243968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11973,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0026",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "31330_A002",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906314926271709,
+              41.64046514174201
+            ],
+            [
+              -0.906315185846122,
+              41.64047124641293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11974,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0027",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A003",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907055567797324,
+              41.64124864584614
+            ],
+            [
+              -0.907049010909416,
+              41.64124992366504
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11975,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0028",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906648328723439,
+              41.640581786496405
+            ],
+            [
+              -0.906560702080845,
+              41.64053841714237
+            ],
+            [
+              -0.90649568703391,
+              41.640495000137236
+            ],
+            [
+              -0.906420431030198,
+              41.64048071706646
+            ],
+            [
+              -0.906353149633563,
+              41.64044425041079
+            ],
+            [
+              -0.906332005584057,
+              41.64046487618908
+            ],
+            [
+              -0.906325961276461,
+              41.64047083417226
+            ],
+            [
+              -0.906325905958331,
+              41.6404708056363
+            ],
+            [
+              -0.906322931599532,
+              41.64046927130729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11976,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0029",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907049010909416,
+              41.64124992366504
+            ],
+            [
+              -0.907015620716347,
+              41.64125643080332
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11977,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0030",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "31330_A001",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906882525325086,
+              41.64143328027248
+            ],
+            [
+              -0.906883015236248,
+              41.6414296316362
+            ],
+            [
+              -0.906878409720727,
+              41.641427063658504
+            ],
+            [
+              -0.906872182693776,
+              41.64142359154576
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11978,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0031",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A001",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906872182693776,
+              41.64142359154576
+            ],
+            [
+              -0.90687252406574,
+              41.64142138680069
+            ],
+            [
+              -0.906872773251162,
+              41.641419777440724
+            ],
+            [
+              -0.906873568192765,
+              41.64141464332283
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11979,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0032",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906954243729013,
+              41.64126504769607
+            ],
+            [
+              -0.906974430123868,
+              41.641299744257964
+            ],
+            [
+              -0.906921102632085,
+              41.64131626004281
+            ],
+            [
+              -0.906912476937281,
+              41.641412042424854
+            ],
+            [
+              -0.906874463640838,
+              41.64140886008433
+            ],
+            [
+              -0.906873568192765,
+              41.64141464332283
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11980,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0033",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A001",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906872182693776,
+              41.64142359154576
+            ],
+            [
+              -0.906864467420786,
+              41.641425895068394
+            ],
+            [
+              -0.906859710554957,
+              41.6414273937126
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11981,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0034",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "31330_A001",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.90687252406574,
+              41.64142138680069
+            ],
+            [
+              -0.906878374615146,
+              41.641420896491816
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11982,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0035",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.90739758749302,
+              41.64094818764894
+            ],
+            [
+              -0.907424237882256,
+              41.64096227282141
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11983,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0036",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A013",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906813207694378,
+              41.64091730367492
+            ],
+            [
+              -0.906805132167594,
+              41.64092139983422
+            ],
+            [
+              -0.906803238674009,
+              41.64092236027428
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11984,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0037",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906792586671933,
+              41.640926527316076
+            ],
+            [
+              -0.906792560948273,
+              41.64092653737912
+            ],
+            [
+              -0.906765575843352,
+              41.64093674066833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11985,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0038",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "31330_A014",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907145292065211,
+              41.640365031474936
+            ],
+            [
+              -0.907137979779436,
+              41.64036805950476
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11986,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0039",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "NO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907157591560221,
+              41.64036386727583
+            ],
+            [
+              -0.90718762817069,
+              41.640366262160654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11987,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0040",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "31330_A013",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906805132167594,
+              41.64092139983422
+            ],
+            [
+              -0.906799115911141,
+              41.6409186039094
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11988,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0041",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A013",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906803238674009,
+              41.64092236027428
+            ],
+            [
+              -0.906792586671933,
+              41.640926527316076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11989,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0042",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907811488651054,
+              41.64064520404016
+            ],
+            [
+              -0.907822648674494,
+              41.64066483187567
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11990,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0043",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE75 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907794767243048,
+              41.64065087668083
+            ],
+            [
+              -0.907805961338687,
+              41.640669565075136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11991,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0044",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": null,
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907792594978362,
+              41.64067329962834
+            ],
+            [
+              -0.907790595915239,
+              41.640670179974386
+            ],
+            [
+              -0.907783138562096,
+              41.640672418349375
+            ],
+            [
+              -0.907779749486715,
+              41.6406840013567
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11992,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0045",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A003",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907074505820668,
+              41.64124781164336
+            ],
+            [
+              -0.90706574109324,
+              41.64125039577706
+            ],
+            [
+              -0.90706432879064,
+              41.64124958644787
+            ],
+            [
+              -0.907060900736784,
+              41.64124762197916
+            ],
+            [
+              -0.907060904061872,
+              41.64124760590434
+            ],
+            [
+              -0.907059816344146,
+              41.64124376411921
+            ],
+            [
+              -0.907058350895997,
+              41.641238480007786
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11993,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0046",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A008",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906956159778391,
+              41.64121857040722
+            ],
+            [
+              -0.906967615428806,
+              41.641219771350805
+            ],
+            [
+              -0.9069666259417,
+              41.64122460997115
+            ],
+            [
+              -0.906965660207902,
+              41.64122907594669
+            ],
+            [
+              -0.906964723818344,
+              41.64123358151637
+            ],
+            [
+              -0.906964128153354,
+              41.641236517179415
+            ],
+            [
+              -0.906952965834485,
+              41.64123543603954
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11994,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0047",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A008",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906965660207902,
+              41.64122907594669
+            ],
+            [
+              -0.906972223799086,
+              41.641229775855564
+            ],
+            [
+              -0.906978154631448,
+              41.64123040828983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11995,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0048",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A002",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906310397252536,
+              41.64045190631003
+            ],
+            [
+              -0.906319021886842,
+              41.640457386506874
+            ],
+            [
+              -0.906315491054138,
+              41.64046137792498
+            ],
+            [
+              -0.906313027855192,
+              41.64046416243968
+            ],
+            [
+              -0.906308933209081,
+              41.640468186859955
+            ],
+            [
+              -0.906305899855862,
+              41.64047116818878
+            ],
+            [
+              -0.906296513479858,
+              41.640466035037726
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11996,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0049",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A006",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906637782441995,
+              41.64055486139805
+            ],
+            [
+              -0.906628507825796,
+              41.640549145775175
+            ],
+            [
+              -0.906629499887677,
+              41.64056135168202
+            ]
+          ],
+          [
+            [
+              -0.906628507825796,
+              41.640549145775175
+            ],
+            [
+              -0.906621081042227,
+              41.64055622044236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11997,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0050",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A007",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.906650971095205,
+              41.64048443756705
+            ],
+            [
+              -0.906654126688777,
+              41.640481576039214
+            ],
+            [
+              -0.906658632443307,
+              41.6404774901696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11998,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0051",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A014",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907147080735983,
+              41.6403539711863
+            ],
+            [
+              -0.907146141516529,
+              41.64035986684422
+            ],
+            [
+              -0.907145655643921,
+              41.64036291559682
+            ],
+            [
+              -0.907145292065211,
+              41.640365031474936
+            ],
+            [
+              -0.907144856840777,
+              41.640367564301414
+            ],
+            [
+              -0.907144119946291,
+              41.64037185265288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11999,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0052",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A014",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907145655643921,
+              41.64036291559682
+            ],
+            [
+              -0.907151833286144,
+              41.64036340815508
+            ],
+            [
+              -0.907157591560221,
+              41.64036386727583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 12000,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0053",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A010",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907241228083376,
+              41.64033734617267
+            ],
+            [
+              -0.907240648116052,
+              41.64034058330679
+            ],
+            [
+              -0.907239628967983,
+              41.64034627176256
+            ],
+            [
+              -0.90724552923816,
+              41.640346852256734
+            ],
+            [
+              -0.907251531781593,
+              41.64034744281266
+            ]
+          ],
+          [
+            [
+              -0.907239628967983,
+              41.64034627176256
+            ],
+            [
+              -0.907238513871567,
+              41.64035251899641
+            ],
+            [
+              -0.907238035711112,
+              41.64035519784972
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 12001,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0054",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A004",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907560526419018,
+              41.64109590493054
+            ],
+            [
+              -0.907565511844872,
+              41.64109116072407
+            ],
+            [
+              -0.907558917012581,
+              41.641083915060605
+            ],
+            [
+              -0.907547620145293,
+              41.641080936750924
+            ],
+            [
+              -0.907542325807403,
+              41.64108602052716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 12002,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0055",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A004",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907558917012581,
+              41.641083915060605
+            ],
+            [
+              -0.907560998545894,
+              41.64108193652141
+            ],
+            [
+              -0.907563148898897,
+              41.64107989256757
+            ],
+            [
+              -0.907566359316437,
+              41.641076841000704
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 12003,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0056",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE50 mm",
+        "ID_ARQUETA": "31330_A009",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907649848658942,
+              41.641053343841094
+            ],
+            [
+              -0.907645182143939,
+              41.641050845122805
+            ],
+            [
+              -0.907640165157245,
+              41.641048013233906
+            ],
+            [
+              -0.907631399907077,
+              41.64104325465756
+            ],
+            [
+              -0.907638946101915,
+              41.64103580177172
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 12004,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0057",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE63 mm",
+        "ID_ARQUETA": "31330_A009",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907647636514241,
+              41.64104096518047
+            ],
+            [
+              -0.907640165157245,
+              41.641048013233906
+            ],
+            [
+              -0.907635535808566,
+              41.64105239757253
+            ],
+            [
+              -0.907632712618286,
+              41.641055071343985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 12005,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_TUBERIA": "31330_T0058",
+        "LOTE": 1.1,
+        "MODELO": "TUBERIA PE32 mm",
+        "ID_ARQUETA": "31330_A005",
+        "VERIFICADO": "SI",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.907892207796445,
+              41.64110601834108
+            ],
+            [
+              -0.907894375433033,
+              41.64110929247556
+            ]
+          ],
+          [
+            [
+              -0.90789394186094,
+              41.6411044633217
+            ],
+            [
+              -0.907892207796445,
+              41.64110601834108
+            ],
+            [
+              -0.907887439038317,
+              41.64111029471622
+            ],
+            [
+              -0.907898450260755,
+              41.641116256993634
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 335,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A001",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9068592,
+              41.6414318
+            ],
+            [
+              -0.9068825,
+              41.6414333
+            ],
+            [
+              -0.9068831,
+              41.6414333
+            ],
+            [
+              -0.9068852,
+              41.6414154
+            ],
+            [
+              -0.9068612,
+              41.6414139
+            ],
+            [
+              -0.9068597,
+              41.6414274
+            ],
+            [
+              -0.9068592,
+              41.6414318
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 336,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A002",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9062962,
+              41.6404659
+            ],
+            [
+              -0.9063153,
+              41.6404768
+            ],
+            [
+              -0.9063299,
+              41.6404625
+            ],
+            [
+              -0.9063108,
+              41.6404515
+            ],
+            [
+              -0.9062962,
+              41.6404659
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 337,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A003",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9070556,
+              41.6412597
+            ],
+            [
+              -0.907077,
+              41.6412516
+            ],
+            [
+              -0.9070662,
+              41.6412355
+            ],
+            [
+              -0.9070448,
+              41.6412437
+            ],
+            [
+              -0.9070556,
+              41.6412597
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 338,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A004",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9075422,
+              41.6410859
+            ],
+            [
+              -0.9075616,
+              41.6410965
+            ],
+            [
+              -0.9075757,
+              41.6410819
+            ],
+            [
+              -0.9075562,
+              41.6410713
+            ],
+            [
+              -0.9075422,
+              41.6410859
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 339,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A005",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.907898,
+              41.6411168
+            ],
+            [
+              -0.9079104,
+              41.6411014
+            ],
+            [
+              -0.9078899,
+              41.6410921
+            ],
+            [
+              -0.9078775,
+              41.6411075
+            ],
+            [
+              -0.907898,
+              41.6411168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 340,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A006",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 3,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9066116,
+              41.6405505
+            ],
+            [
+              -0.9066303,
+              41.6405618
+            ],
+            [
+              -0.9066454,
+              41.6405478
+            ],
+            [
+              -0.9066268,
+              41.6405365
+            ],
+            [
+              -0.9066116,
+              41.6405505
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 341,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A007",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9066611,
+              41.6404901
+            ],
+            [
+              -0.9066754,
+              41.6404756
+            ],
+            [
+              -0.9066561,
+              41.6404649
+            ],
+            [
+              -0.9066418,
+              41.6404794
+            ],
+            [
+              -0.9066611,
+              41.6404901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 342,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A008",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9069528,
+              41.6412361
+            ],
+            [
+              -0.9069766,
+              41.6412386
+            ],
+            [
+              -0.90698,
+              41.6412208
+            ],
+            [
+              -0.9069562,
+              41.6412182
+            ],
+            [
+              -0.9069528,
+              41.6412361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 343,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A009",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9076233,
+              41.6410495
+            ],
+            [
+              -0.9076421,
+              41.6410607
+            ],
+            [
+              -0.907657,
+              41.6410465
+            ],
+            [
+              -0.9076382,
+              41.6410354
+            ],
+            [
+              -0.9076233,
+              41.6410495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 344,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A010",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 3,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9072264,
+              41.6403542
+            ],
+            [
+              -0.9072502,
+              41.6403562
+            ],
+            [
+              -0.9072529,
+              41.6403383
+            ],
+            [
+              -0.9072291,
+              41.6403363
+            ],
+            [
+              -0.9072264,
+              41.6403542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 345,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A011",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_STANDAR",
+        "N_SECTORES": 1,
+        "USO": "VALVULA",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9071352,
+              41.6405235
+            ],
+            [
+              -0.9071592,
+              41.6405244
+            ],
+            [
+              -0.9071603,
+              41.6405064
+            ],
+            [
+              -0.9071364,
+              41.6405055
+            ],
+            [
+              -0.9071352,
+              41.6405235
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 346,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A012",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_STANDAR",
+        "N_SECTORES": 1,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9073714,
+              41.640944
+            ],
+            [
+              -0.9073902,
+              41.6409552
+            ],
+            [
+              -0.9074051,
+              41.6409411
+            ],
+            [
+              -0.9073863,
+              41.6409299
+            ],
+            [
+              -0.9073714,
+              41.640944
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 347,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A013",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_STANDAR",
+        "N_SECTORES": 1,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9067868,
+              41.6409191
+            ],
+            [
+              -0.9067988,
+              41.6409347
+            ],
+            [
+              -0.9068196,
+              41.6409257
+            ],
+            [
+              -0.9068076,
+              41.6409101
+            ],
+            [
+              -0.9067868,
+              41.6409191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 348,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_ARQUETA": "31330_A014",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9071326,
+              41.6403711
+            ],
+            [
+              -0.9071566,
+              41.6403727
+            ],
+            [
+              -0.9071587,
+              41.6403547
+            ],
+            [
+              -0.9071348,
+              41.6403532
+            ],
+            [
+              -0.9071326,
+              41.6403711
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1846,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A001",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_STANDAR",
+        "N_SECTORES": 1,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9110794,
+              41.6395651
+            ],
+            [
+              -0.9111013,
+              41.6395577
+            ],
+            [
+              -0.9110913,
+              41.6395413
+            ],
+            [
+              -0.9110695,
+              41.6395487
+            ],
+            [
+              -0.9110794,
+              41.6395651
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1847,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A002",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9106059,
+              41.6393372
+            ],
+            [
+              -0.9106282,
+              41.6393305
+            ],
+            [
+              -0.9106194,
+              41.6393138
+            ],
+            [
+              -0.9105971,
+              41.6393204
+            ],
+            [
+              -0.9106059,
+              41.6393372
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1848,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A003",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_STANDAR",
+        "N_SECTORES": 1,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9104869,
+              41.6389998
+            ],
+            [
+              -0.9105099,
+              41.6389947
+            ],
+            [
+              -0.910508,
+              41.6389899
+            ],
+            [
+              -0.9105031,
+              41.6389775
+            ],
+            [
+              -0.9104801,
+              41.6389825
+            ],
+            [
+              -0.9104839,
+              41.6389923
+            ],
+            [
+              -0.9104869,
+              41.6389998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1849,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A004",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9109417,
+              41.6387415
+            ],
+            [
+              -0.9109544,
+              41.6387383
+            ],
+            [
+              -0.9109645,
+              41.6387358
+            ],
+            [
+              -0.9109569,
+              41.6387187
+            ],
+            [
+              -0.9109341,
+              41.6387244
+            ],
+            [
+              -0.9109417,
+              41.6387415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1850,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A005",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9115729,
+              41.6399675
+            ],
+            [
+              -0.9115835,
+              41.639964
+            ],
+            [
+              -0.9115949,
+              41.6399603
+            ],
+            [
+              -0.9115853,
+              41.6399437
+            ],
+            [
+              -0.9115846,
+              41.639944
+            ],
+            [
+              -0.9115633,
+              41.6399509
+            ],
+            [
+              -0.9115729,
+              41.6399675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1851,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A006",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 4,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9110732,
+              41.6389192
+            ],
+            [
+              -0.9110954,
+              41.6389122
+            ],
+            [
+              -0.9110861,
+              41.6388956
+            ],
+            [
+              -0.911073,
+              41.6388997
+            ],
+            [
+              -0.911064,
+              41.6389026
+            ],
+            [
+              -0.9110732,
+              41.6389192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1852,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A007",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_STANDAR",
+        "N_SECTORES": 1,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9109096,
+              41.6398573
+            ],
+            [
+              -0.9109318,
+              41.6398504
+            ],
+            [
+              -0.9109226,
+              41.6398338
+            ],
+            [
+              -0.9109004,
+              41.6398407
+            ],
+            [
+              -0.9109096,
+              41.6398573
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1853,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A008",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_STANDAR",
+        "N_SECTORES": 1,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9119099,
+              41.6397375
+            ],
+            [
+              -0.9119339,
+              41.6397379
+            ],
+            [
+              -0.9119341,
+              41.63973
+            ],
+            [
+              -0.9119345,
+              41.6397199
+            ],
+            [
+              -0.9119105,
+              41.6397195
+            ],
+            [
+              -0.9119102,
+              41.6397273
+            ],
+            [
+              -0.9119099,
+              41.6397375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1854,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A009",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_STANDAR",
+        "N_SECTORES": 1,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9111621,
+              41.6394823
+            ],
+            [
+              -0.911186,
+              41.6394801
+            ],
+            [
+              -0.9111831,
+              41.6394622
+            ],
+            [
+              -0.9111592,
+              41.6394644
+            ],
+            [
+              -0.9111621,
+              41.6394823
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1855,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A010",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9115256,
+              41.6400508
+            ],
+            [
+              -0.9115482,
+              41.6400447
+            ],
+            [
+              -0.9115401,
+              41.6400278
+            ],
+            [
+              -0.9115278,
+              41.6400311
+            ],
+            [
+              -0.9115175,
+              41.6400339
+            ],
+            [
+              -0.9115256,
+              41.6400508
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1856,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A011",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 1,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9105193,
+              41.6393594
+            ],
+            [
+              -0.9105416,
+              41.6393529
+            ],
+            [
+              -0.910533,
+              41.6393361
+            ],
+            [
+              -0.9105106,
+              41.6393426
+            ],
+            [
+              -0.9105147,
+              41.6393506
+            ],
+            [
+              -0.9105193,
+              41.6393594
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1857,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A012",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_STANDAR",
+        "N_SECTORES": 1,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9108285,
+              41.6398993
+            ],
+            [
+              -0.9108505,
+              41.6398921
+            ],
+            [
+              -0.9108457,
+              41.6398839
+            ],
+            [
+              -0.9108409,
+              41.6398756
+            ],
+            [
+              -0.9108189,
+              41.6398828
+            ],
+            [
+              -0.9108235,
+              41.6398907
+            ],
+            [
+              -0.9108285,
+              41.6398993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1858,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A013",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9110591,
+              41.6401597
+            ],
+            [
+              -0.9110819,
+              41.6401541
+            ],
+            [
+              -0.9110756,
+              41.6401398
+            ],
+            [
+              -0.9110743,
+              41.640137
+            ],
+            [
+              -0.9110515,
+              41.6401426
+            ],
+            [
+              -0.9110591,
+              41.6401597
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1859,
+        "CODIGO_ZV": "2922_00403_AL ANDALUS",
+        "ID_ARQUETA": "00403_A014",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "PPRECTANGULAR_JUMBO",
+        "N_SECTORES": 2,
+        "USO": "AUTOMATIZACION",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.912079,
+              41.6399366
+            ],
+            [
+              -0.9120992,
+              41.6399463
+            ],
+            [
+              -0.9121046,
+              41.63994
+            ],
+            [
+              -0.9121122,
+              41.6399311
+            ],
+            [
+              -0.9120919,
+              41.6399214
+            ],
+            [
+              -0.9120843,
+              41.6399304
+            ],
+            [
+              -0.912079,
+              41.6399366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 3592,
+        "CODIGO_ZV": "3551_03135_BADEN-POWEL, ROBERT",
+        "ID_ARQUETA": "03135_A001",
+        "LOTE": 1.1,
+        "N_DECODIFI": 0,
+        "TIPO_DECOD": "OTRO",
+        "MAT_TIPO_D": "HMEDIANA(50X50 a 70X70)",
+        "N_SECTORES": 1,
+        "USO": "VALVULA",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9100589,
+              41.6388287
+            ],
+            [
+              -0.9100816,
+              41.6388229
+            ],
+            [
+              -0.9100739,
+              41.6388059
+            ],
+            [
+              -0.9100512,
+              41.6388117
+            ],
+            [
+              -0.9100589,
+              41.6388287
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 23,
+        "CODIGO_ZV": "2176_31330_TAIFA SARAQUSTA",
+        "ID_BOMBA": "31330_B01",
+        "LOTE": 1.1,
+        "LOCALIZACI": "CASETA JARDINES TAIFA SARAQUSTA Y AL-ANDALUS",
+        "ORIGEN_AGU": "POZO",
+        "OBSERVACIO": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.90657949,
+          41.64180745
+        ]
+      }
+    }
+  ]
+}
