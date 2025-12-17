@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Mapa Leaflet</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+<body>
+<div id="map" style="height:100vh"></div>
+
+<script>
+  const map = L.map('map').setView([41.65, -0.88], 12);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap'
+  }).addTo(map);
+
+  fetch('bombas.geojson')
+    .then(r => r.json())
+    .then(data => {
+      L.geoJSON(data).addTo(map);
+    });
+</script>
+</body>
+</html>
