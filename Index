@@ -16,7 +16,7 @@
     attribution: '&copy; OpenStreetMap'
   }).addTo(map);
 
-  fetch('bombas.geojson')
+  fetch('Mapa_Taifa_Saraquista.json')
     .then(r => r.json())
     .then(data => {
       L.geoJSON(data).addTo(map);
